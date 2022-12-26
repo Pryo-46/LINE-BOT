@@ -1,0 +1,9 @@
+＃Kuttane
+□現在作成中
+■BOT概要
+LINEでユーザが入力したカロリーをGoogle　Spreadsheetに記録し、目標摂取カロリーとの差異と当日の摂取合計カロリーを返信するBOTです。
+
+■環境
+LINE　Messaging API
+Google　Spreadsheet
+Google　Apps Script
